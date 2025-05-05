@@ -11,3 +11,8 @@
 - **everyOther** - Completed: 2025-05-05
 - **createZigZag** - Completed: 2025-05-05
 - **countInversions** - Completed: 2025-05-05
+### Lab 0(B)
+- **removeDuplicates** - Completed: 2025-05-05
+- **uniqueCharacters** - Completed: 2025-05-05
+- **countSafeSquaresRooks** - Completed: 2025-05-05
+- **recaman** - Completed: 2025-05-05
