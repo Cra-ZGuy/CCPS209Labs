@@ -16,3 +16,7 @@
 - **uniqueCharacters** - Completed: 2025-05-05
 - **countSafeSquaresRooks** - Completed: 2025-05-05
 - **recaman** - Completed: 2025-05-05
+### Lab 0(C)
+- **pancakeScramble** - Completed: 2025-05-07
+- **reverseAscendingSubarrays** - Completed: 2025-05-07
+- **reverseVowels** - Completed: 2025-05-07
