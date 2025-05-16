@@ -20,3 +20,8 @@
 - **pancakeScramble** - Completed: 2025-05-07
 - **reverseAscendingSubarrays** - Completed: 2025-05-07
 - **reverseVowels** - Completed: 2025-05-07
+### Lab 0(D)
+- **runningMedianOfThree** - Completed: 2025-05-16
+- **firstMissingPositive** - Completed: 2025-05-16
+- **sortByElementFrequency** - Completed: 2025-05-16
+- **factorFactorial** - Completed: 2025-05-16  
