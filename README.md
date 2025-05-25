@@ -24,4 +24,7 @@
 - **runningMedianOfThree** - Completed: 2025-05-16
 - **firstMissingPositive** - Completed: 2025-05-16
 - **sortByElementFrequency** - Completed: 2025-05-16
-- **factorFactorial** - Completed: 2025-05-16  
+- **factorFactorial** - Completed: 2025-05-16
+### Lab 0(E)
+- **fibonacciSum** - Completed: 2025-05-24
+- **sevenZero** - Completed: 2025-05-24
