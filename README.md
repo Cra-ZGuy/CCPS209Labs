@@ -28,3 +28,6 @@
 ### Lab 0(E)
 - **fibonacciSum** - Completed: 2025-05-24
 - **sevenZero** - Completed: 2025-05-24
+### Lab 0(F)
+- **sumOfDistinctCubes** - Completed: 2025-06-04
+- **forbiddenSubstrings** - Completed: 2025-06-04
