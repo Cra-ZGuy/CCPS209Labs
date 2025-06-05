@@ -34,3 +34,6 @@
 ### Lab 0(G)
 - **josephus** - Completed: 2025-06-04
 - **huntingtonHill** - Completed: 2025-06-04
+### Lab 0(H)
+- **hittingIntegerPowers** - Completed: 2025-06-05
+- **nearestPolygonalNumber** - Completed: 2025-06-05
