@@ -31,3 +31,6 @@
 ### Lab 0(F)
 - **sumOfDistinctCubes** - Completed: 2025-06-04
 - **forbiddenSubstrings** - Completed: 2025-06-04
+### Lab 0(G)
+- **josephus** - Completed: 2025-06-04
+- **huntingtonHill** - Completed: 2025-06-04
