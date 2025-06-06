@@ -40,3 +40,10 @@
 ### Lab 0(I)
 - **sumOfTwoDistinctSquares** - Completed: 2025-06-05
 - **subtractSquare** - Completed: 2025-06-05
+### Lab 0(J)
+- **matchingDissimilarity** - Completed: 2025-06-05
+- **jaccardDissimilarity** - Completed: 2025-06-05
+- **diceDissimilarity** - Completed: 2025-06-05
+- **rogersTanimonoDissimilarity** - Completed: 2025-06-05
+- **russellRaoDissimilarity** - Completed: 2025-06-05
+- **sokalSneathDissimilarity** - Completed: 2025-06-05
