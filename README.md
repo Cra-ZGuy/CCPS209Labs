@@ -37,3 +37,6 @@
 ### Lab 0(H)
 - **hittingIntegerPowers** - Completed: 2025-06-05
 - **nearestPolygonalNumber** - Completed: 2025-06-05
+### Lab 0(I)
+- **sumOfTwoDistinctSquares** - Completed: 2025-06-05
+- **subtractSquare** - Completed: 2025-06-05
