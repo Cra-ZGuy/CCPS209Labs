@@ -49,3 +49,5 @@
 - **sokalSneathDissimilarity** - Completed: 2025-06-05
 ### Lab 1
 - **Polynomial** - Completed: 2025-06-13
+### Lab 2
+- **Polynomial** - Completed: 2025-06-13
