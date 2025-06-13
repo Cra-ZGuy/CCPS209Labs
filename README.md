@@ -51,3 +51,5 @@
 - **Polynomial** - Completed: 2025-06-13
 ### Lab 2
 - **Polynomial** - Completed: 2025-06-13
+### Lab 3
+- **Polynomial** - Completed: 2025-06-13
