@@ -47,3 +47,5 @@
 - **rogersTanimonoDissimilarity** - Completed: 2025-06-05
 - **russellRaoDissimilarity** - Completed: 2025-06-05
 - **sokalSneathDissimilarity** - Completed: 2025-06-05
+### Lab 1
+- **Polynomial** - Completed: 2025-06-13
