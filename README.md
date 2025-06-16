@@ -53,3 +53,5 @@
 - **Polynomial** - Completed: 2025-06-13
 ### Lab 3
 - **Polynomial** - Completed: 2025-06-13
+### Lab 4
+- **AccessCountArrayList** - Completed: 2025-06-15
