@@ -60,3 +60,5 @@
 ### Lab 6
 - **FileProcessor** - Completed: 2025-06-16
 - **WordCount** - Completed: 2025-06-16
+### Lab 7
+- **Tail** - Completed: 2025-06-16
