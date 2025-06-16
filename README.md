@@ -57,3 +57,6 @@
 - **AccessCountArrayList** - Completed: 2025-06-15
 ### Lab 5
 - **Head** - Completed: 2025-06-15
+### Lab 6
+- **FileProcessor** - Completed: 2025-06-16
+- **WordCount** - Completed: 2025-06-16
