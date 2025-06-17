@@ -4,7 +4,7 @@
 **Student ID**: 501294075
 **Student Email**: james.deogrades@torontumu.ca
 
-## Labs Completed
+## Labs Completed: 20
 
 ### Lab 0(A)
 - **fallingPower** - Completed: 2025-05-05
