@@ -62,3 +62,5 @@
 - **WordCount** - Completed: 2025-06-16
 ### Lab 7
 - **Tail** - Completed: 2025-06-16
+### Lab 8
+- **Particle** - Completed: 2025-06-17
