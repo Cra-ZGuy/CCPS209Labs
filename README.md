@@ -64,3 +64,5 @@
 - **Tail** - Completed: 2025-06-16
 ### Lab 8
 - **Particle** - Completed: 2025-06-17
+### Lab 9
+- **Lissajous** - Completed: 2025-06-17
