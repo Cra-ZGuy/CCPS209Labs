@@ -66,3 +66,5 @@
 - **Particle** - Completed: 2025-06-17
 ### Lab 9
 - **Lissajous** - Completed: 2025-06-17
+### Lab 10
+- **StreamExercises** - Completed: 2025-06-17
